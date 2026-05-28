@@ -7,6 +7,19 @@ main{
     margin: auto;
     width: 70%;
     padding: 10px;
-    border-radius: 10px;
+    border-radius: 15px;
     border: solid rgb(0, 0, 0) 2px;
+}
+nav{
+    margin: auto;   
+    width:10%;
+    padding: 5px;
+}
+
+img{
+    width: 300px;
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
